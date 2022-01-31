@@ -1,1 +1,1 @@
-# demo
+Esto es es un juego de practica por css, html y javascript.
